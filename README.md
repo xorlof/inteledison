@@ -1,2 +1,3 @@
-# inteledison
-Intel Edison Info Dump
+# Intel Edison Info Dump
+
+Gathering Intel Edison documentation and notes into one place.
